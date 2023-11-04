@@ -12,17 +12,17 @@ O objetivo principal deste projeto é coletar, tratar e analisar dados sobre fil
 
 ## Tópicos📌
 
-- [Visão Geral🌐](#visao-geral)
-- [Ferramentas e Tecnologias Utilizadas🛠️](#ferramentas-e-tecnologias-utilizadas)
+- [Visão Geral🌐](#visão-geral)
+- [Ferramentas e Tecnologias Utilizadas🛠️](#ferramentas-e-tecnologias-utilizadas%EF%B8%8F)
 - [Coleta de Dados📊](#coleta-de-dados)
-- [Limpeza e Pré-Processamento de Dados🧹](#limpeza-e-pre-processamento-de-dados)
+- [Limpeza e Pré-Processamento de Dados🧹](#limpeza-e-pré-processamento-de-dados)
 - [Conjunto de Dados📚](#conjunto-de-dados)
-- [Análise Exploratória de Dados (EDA) e Visualizações🔍](#analise-exploratoria-de-dados-eda-e-visualizacoes)
-- [Conclusões e Recomendações💡](#conclusoes-e-recomendacoes)
-- [Considerações Finais📝](#consideracoes-finais)
-- [Licença©️](#licenca)
-- [Créditos👏](#creditos)
-- [Disclaimer⚠️](#disclaimer)
+- [Análise Exploratória de Dados (EDA) e Visualizações🔍](#análise-exploratória-de-dados-eda-e-visualizações)
+- [Conclusões e Recomendações💡](#conclusões-e-recomendações)
+- [Considerações Finais📝](#considerações-finais)
+- [Licença©️](#licença%EF%B8%8F)
+- [Créditos👏](#créditos)
+- [Disclaimer⚠️](#disclaimer%EF%B8%8F)
 
 
 ## Visão Geral🌐
