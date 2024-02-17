@@ -1,6 +1,6 @@
-# Exploratory Data Analysis (EDA) of Films
+# Análise de Dados do Cinema com Python
 
-![Principal](images/img_principal.png)
+![Principal](images/capa_cinema.png)
 
 ## Contexto do Negócio 💼
 
